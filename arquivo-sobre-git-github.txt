@@ -1,0 +1,35 @@
+# Git e Github
+
+- O que é?
+
+Git -> é um sistema de controle de versao.
+Github -> é um site de hospedagem de codigo.
+
+- Reposito = Pasta
+ - Reposito Local -> pasta com os arquivo no computador.
+ - Reposito Virtual -> imagem (copia) da pasta com os mesmos arquivos que tem no repositorio local
+
+- Versionamento do codigo = criar uma linha do tempo
+
+## Sobre Git
+
+- Ciclo de Vida dos status dos arquivos
+ - untracke (nao marcado) : no momento em que voce adiciona o arquivo no repositorio mas ele ainda não
+está sendo rastreador pelo git. Acontecente com todos os arquivos novos do repositorio.
+ - unmodified (nao modificado) : arquivo ja sendo ratreado e nao foi modificado desde que entrou no
+repositorio.
+ - modified (modificado) : arquivo que esta no repositorio e foi modificado.
+ - staged (area especial) : area especial do git em que os arquivos estao prontos para ser commitado
+
+*commit -> fazer 1 commit é adicionar um ponto na arvore de historico*
+
+Cursos Recomendados:
+*Dicionario do Codigo = https://www.youtube.com/watch?v=myQuetgSEsY&ab_channel=C%C3%B3digoFonteTV*
+*Guanabara = https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo*
+*Mayk Brito - Rocketseat - = https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat*
+
+
+
+
+
+
